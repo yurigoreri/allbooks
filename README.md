@@ -1,4 +1,6 @@
 # ALLBOOKS - alteração dia 31/07/26 - commmit para testar em casa depois
+# (_)_)ZZZZD
+
 # Projeto API Allbooks
 
 O AllBooks é uma loja virtual que vende livros da Casa do Código. 
